@@ -34,6 +34,11 @@ mad4machines
 
 ---
 
+## Circuit
+![Smart Mirror](circuit.png)
+
+---
+
 ## TFT Display Connections
 
 | TFT Pin | NodeMCU Pin |
@@ -46,7 +51,6 @@ mad4machines
 | DC/A0 | D3 |
 | CS | D8 |
 
----
 
 ## IR Sensor Connections
 
@@ -94,6 +98,8 @@ appid=YOUR_API_KEY
 
 ---
 
+
+
 ## How It Works
 
 1. Smart mirror animation runs continuously.
@@ -105,9 +111,6 @@ appid=YOUR_API_KEY
    - Shows live weather.
 
 ---
-
-## Circuit
-![Smart Mirror](circuit.png)
 
 ## Screenshots
 
