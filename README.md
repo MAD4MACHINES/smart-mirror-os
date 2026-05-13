@@ -1,4 +1,4 @@
-# NO !DEA Smart Mirror OS
+# Smart Mirror OS by NO !DEA
 
 A futuristic smart mirror built using NodeMCU ESP8266, ST7735 TFT display, IR sensor, WiFi, weather API, and internet time synchronization.
 
