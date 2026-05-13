@@ -105,6 +105,8 @@ appid=YOUR_API_KEY
    - Shows live weather.
 
 ---
+
+## Circuit
 ![Smart Mirror](circuit.png)
 
 ## Screenshots
