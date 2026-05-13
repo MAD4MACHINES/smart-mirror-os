@@ -21,7 +21,6 @@ mad4machines
 - OpenWeatherMap API Integration
 
 <p align="center">
-  <img src="images/SMARTMIRROR1.jpeg" width="220"/>
   <img src="images/SMARTMIRROR4.jpeg" width="220"/>
   <img src="images/SMARTMIRROR2.jpeg" width="220"/>
   <img src="images/SMARTMIRROR3.jpeg" width="220"/>
