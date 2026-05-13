@@ -33,7 +33,9 @@ Watch the Smart Mirror Demo:
 
 ---
 
-## Components Used
+## Things Used
+
+## 🪞 [Buy a Magic Mirror Photo Frame](https://amzn.to/42xLxRM)
 
 | Component | Quantity |
 |---|---|
