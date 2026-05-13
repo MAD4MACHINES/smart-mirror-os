@@ -36,7 +36,6 @@ mad4machines
 
 ## Circuit
 ![Smart Mirror](images/circuit.png)
-
 ---
 
 ## TFT Display Connections
