@@ -35,7 +35,7 @@ mad4machines
 ---
 
 ## Circuit
-![Smart Mirror](circuit.png)
+![Smart Mirror](images/circuit.png)
 
 ---
 
